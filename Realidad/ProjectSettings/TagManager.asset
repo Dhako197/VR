@@ -7,6 +7,9 @@ TagManager:
   - Bola
   - Fluid
   - Pan
+  - Glass
+  - Moca
+  - Tea
   layers:
   - Default
   - TransparentFX
