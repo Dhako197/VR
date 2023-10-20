@@ -1,0 +1,1100 @@
+// Generated using SketchfabRipper v1.18.0 by revetix#9971
+
+Mesh "6" uses material "LabProps" and has UniqueID "6"
+Mesh "25" uses material "LabProps" and has UniqueID "25"
+Mesh "41" uses material "LabProps" and has UniqueID "41"
+Mesh "57" uses material "LabProps" and has UniqueID "57"
+Mesh "71" uses material "LabProps" and has UniqueID "71"
+Mesh "87" uses material "LabProps" and has UniqueID "87"
+Mesh "103" uses material "Addons1" and has UniqueID "103"
+Mesh "124" uses material "Addons1" and has UniqueID "124"
+Mesh "140" uses material "Buffet" and has UniqueID "140"
+Mesh "159" uses material "Buffet" and has UniqueID "159"
+Mesh "175" uses material "Buffet" and has UniqueID "175"
+Mesh "191" uses material "LabProps" and has UniqueID "191"
+Mesh "207" uses material "LabProps" and has UniqueID "207"
+Mesh "223" uses material "LabProps" and has UniqueID "223"
+Mesh "239" uses material "LabProps" and has UniqueID "239"
+Mesh "253" uses material "LabProps" and has UniqueID "253"
+Mesh "269" uses material "LabProps" and has UniqueID "269"
+Mesh "285" uses material "LabProps" and has UniqueID "285"
+Mesh "301" uses material "LabProps" and has UniqueID "301"
+Mesh "317" uses material "LabProps" and has UniqueID "317"
+Mesh "333" uses material "LabProps" and has UniqueID "333"
+Mesh "349" uses material "Buffet" and has UniqueID "349"
+Mesh "365" uses material "Buffet" and has UniqueID "365"
+Mesh "381" uses material "Buffet" and has UniqueID "381"
+Mesh "397" uses material "LabProps" and has UniqueID "397"
+Mesh "413" uses material "LabProps" and has UniqueID "413"
+Mesh "429" uses material "LabProps" and has UniqueID "429"
+Mesh "445" uses material "LabProps" and has UniqueID "445"
+Mesh "459" uses material "LabProps" and has UniqueID "459"
+Mesh "475" uses material "LabProps" and has UniqueID "475"
+Mesh "491" uses material "LabProps" and has UniqueID "491"
+Mesh "507" uses material "LabProps" and has UniqueID "507"
+Mesh "523" uses material "LabProps" and has UniqueID "523"
+Mesh "539" uses material "LabProps" and has UniqueID "539"
+Mesh "555" uses material "ElectricDetails" and has UniqueID "555"
+Mesh "574" uses material "LaboratoryEquipment_el3" and has UniqueID "574"
+Mesh "594" uses material "Chair_Volume5_copy001_color" and has UniqueID "594"
+Mesh "613" uses material "Chair_Volume5_copy001_color" and has UniqueID "613"
+Mesh "630" uses material "No Name" and has UniqueID "630"
+Mesh "649" uses material "No Name" and has UniqueID "649"
+Mesh "665" uses material "No Name" and has UniqueID "665"
+Mesh "681" uses material "No Name" and has UniqueID "681"
+Mesh "697" uses material "No Name" and has UniqueID "697"
+Mesh "713" uses material "No Name" and has UniqueID "713"
+Mesh "729" uses material "No Name" and has UniqueID "729"
+Mesh "745" uses material "No Name" and has UniqueID "745"
+Mesh "761" uses material "No Name" and has UniqueID "761"
+Mesh "777" uses material "No Name" and has UniqueID "777"
+Mesh "793" uses material "No Name" and has UniqueID "793"
+Mesh "809" uses material "No Name" and has UniqueID "809"
+Mesh "825" uses material "No Name" and has UniqueID "825"
+Mesh "841" uses material "No Name" and has UniqueID "841"
+Mesh "857" uses material "No Name" and has UniqueID "857"
+Mesh "873" uses material "No Name" and has UniqueID "873"
+Mesh "889" uses material "No Name" and has UniqueID "889"
+Mesh "905" uses material "No Name" and has UniqueID "905"
+Mesh "921" uses material "No Name" and has UniqueID "921"
+Mesh "937" uses material "ElectricDetails" and has UniqueID "937"
+Mesh "953" uses material "ElectricDetails" and has UniqueID "953"
+Mesh "969" uses material "WallsColumns_diff_Material__3" and has UniqueID "969"
+Mesh "988" uses material "WallsColumns_diff_Material__3" and has UniqueID "988"
+Mesh "1004" uses material "WallsColumns_diff_Material__3" and has UniqueID "1004"
+Mesh "1020" uses material "WallsColumns_diff_Material__3" and has UniqueID "1020"
+Mesh "1036" uses material "WallsColumns_diff_Material__3" and has UniqueID "1036"
+Mesh "1052" uses material "WallsColumns_diff_Material__3" and has UniqueID "1052"
+Mesh "1068" uses material "WallsColumns_diff_Material__3" and has UniqueID "1068"
+Mesh "1084" uses material "WallsColumns_diff_Material__3" and has UniqueID "1084"
+Mesh "1100" uses material "WallsColumns_diff_Material__3" and has UniqueID "1100"
+Mesh "1116" uses material "WallsColumns_diff_Material__3" and has UniqueID "1116"
+Mesh "1132" uses material "WallsColumns_diff_Material__3" and has UniqueID "1132"
+Mesh "1148" uses material "WallsColumns_diff_Material__3" and has UniqueID "1148"
+Mesh "1164" uses material "WallsColumns_diff_Material__3" and has UniqueID "1164"
+Mesh "1180" uses material "WallsColumns_diff_Material__3" and has UniqueID "1180"
+Mesh "1196" uses material "WallsColumns_diff_Material__3" and has UniqueID "1196"
+Mesh "1212" uses material "WallsColumns_diff_Material__3" and has UniqueID "1212"
+Mesh "1228" uses material "WallsColumns_diff_Material__3" and has UniqueID "1228"
+Mesh "1244" uses material "WallsColumns_diff_Material__3" and has UniqueID "1244"
+Mesh "1260" uses material "WallsColumns_diff_Material__3" and has UniqueID "1260"
+Mesh "1276" uses material "WallsColumns_diff_Material__3" and has UniqueID "1276"
+Mesh "1292" uses material "WallsColumns_diff_Material__3" and has UniqueID "1292"
+Mesh "1308" uses material "WallsColumns_diff_Material__3" and has UniqueID "1308"
+Mesh "1324" uses material "WallsColumns_diff_Material__3" and has UniqueID "1324"
+Mesh "1340" uses material "WallsColumns_diff_Material__3" and has UniqueID "1340"
+Mesh "1356" uses material "StoneFloor" and has UniqueID "1356"
+Mesh "1374" uses material "Cot" and has UniqueID "1374"
+Mesh "1393" uses material "Body2" and has UniqueID "1393"
+Mesh "1412" uses material "Cot" and has UniqueID "1412"
+Mesh "1428" uses material "Body" and has UniqueID "1428"
+Mesh "1447" uses material "Cot" and has UniqueID "1447"
+Mesh "1463" uses material "Body" and has UniqueID "1463"
+Mesh "1479" uses material "Cot" and has UniqueID "1479"
+Mesh "1495" uses material "Body" and has UniqueID "1495"
+Mesh "1511" uses material "Fabric" and has UniqueID "1511"
+Mesh "1530" uses material "Cot" and has UniqueID "1530"
+Mesh "1546" uses material "Fabric" and has UniqueID "1546"
+Mesh "1562" uses material "Body" and has UniqueID "1562"
+Mesh "1578" uses material "Cot" and has UniqueID "1578"
+Mesh "1594" uses material "Body" and has UniqueID "1594"
+Mesh "1610" uses material "Doors_4_5_Default_color" and has UniqueID "1610"
+Mesh "1629" uses material "Doors_4_5_Default_color" and has UniqueID "1629"
+Mesh "1645" uses material "Doors_4_5_Default_color" and has UniqueID "1645"
+Mesh "1661" uses material "ElectrikChair_Material__25_color" and has UniqueID "1661"
+Mesh "1680" uses material "ElectrikChair_Material__25_color" and has UniqueID "1680"
+Mesh "1696" uses material "ElectrikChair_Material__25_color" and has UniqueID "1696"
+Mesh "1712" uses material "Material__25" and has UniqueID "1712"
+Mesh "1732" uses material "ElectrikChair_Material__25_color" and has UniqueID "1732"
+Mesh "1748" uses material "ElectrikChair_Material__25_color" and has UniqueID "1748"
+Mesh "1764" uses material "ElectrikChair_Material__25_color" and has UniqueID "1764"
+Mesh "1780" uses material "ElectrikChair_Material__25_color" and has UniqueID "1780"
+Mesh "1796" uses material "ElectrikChair_Material__25_color" and has UniqueID "1796"
+Mesh "1812" uses material "ElectrikChair_Material__25_color" and has UniqueID "1812"
+Mesh "1828" uses material "Material__25" and has UniqueID "1828"
+Mesh "1844" uses material "ElectrikChair_Material__25_color" and has UniqueID "1844"
+Mesh "1860" uses material "ElectrikChair_Material__25_color" and has UniqueID "1860"
+Mesh "1876" uses material "ElectrikChair_Material__25_color" and has UniqueID "1876"
+Mesh "1892" uses material "ElectrikChair_Material__25_color" and has UniqueID "1892"
+Mesh "1908" uses material "Material__25" and has UniqueID "1908"
+Mesh "1924" uses material "ElectrikChair_Material__25_color" and has UniqueID "1924"
+Mesh "1940" uses material "ElectrikChair_Material__25_color" and has UniqueID "1940"
+Mesh "1956" uses material "ElectrikChair_Material__25_color" and has UniqueID "1956"
+Mesh "1972" uses material "ElectrikChair_Material__25_color" and has UniqueID "1972"
+Mesh "1988" uses material "Material__25" and has UniqueID "1988"
+Mesh "2004" uses material "ElectricThing" and has UniqueID "2004"
+Mesh "2023" uses material "ElectricThing" and has UniqueID "2023"
+Mesh "2039" uses material "ElectricThing" and has UniqueID "2039"
+Mesh "2056" uses material "Flasks_glass" and has UniqueID "2056"
+Mesh "2069" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2069"
+Mesh "2082" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2082"
+Mesh "2109" uses material "Flasks_glass" and has UniqueID "2109"
+Mesh "2123" uses material "Flasks_glass" and has UniqueID "2123"
+Mesh "2139" uses material "Flasks_glass" and has UniqueID "2139"
+Mesh "2155" uses material "Flasks_glass" and has UniqueID "2155"
+Mesh "2165" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2165"
+Mesh "2183" uses material "Flasks_glass" and has UniqueID "2183"
+Mesh "2193" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2193"
+Mesh "2213" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2213"
+Mesh "2229" uses material "Flasks_glass" and has UniqueID "2229"
+Mesh "2237" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2237"
+Mesh "2257" uses material "Flasks_glass" and has UniqueID "2257"
+Mesh "2265" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2265"
+Mesh "2285" uses material "Flasks_glass" and has UniqueID "2285"
+Mesh "2293" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2293"
+Mesh "2313" uses material "Flasks_glass" and has UniqueID "2313"
+Mesh "2321" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2321"
+Mesh "2341" uses material "Flasks_glass" and has UniqueID "2341"
+Mesh "2349" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2349"
+Mesh "2369" uses material "Flasks_glass" and has UniqueID "2369"
+Mesh "2377" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2377"
+Mesh "2397" uses material "Flasks_glass" and has UniqueID "2397"
+Mesh "2405" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2405"
+Mesh "2425" uses material "Flasks_glass" and has UniqueID "2425"
+Mesh "2433" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2433"
+Mesh "2453" uses material "Flasks_glass" and has UniqueID "2453"
+Mesh "2461" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2461"
+Mesh "2481" uses material "Flasks_glass" and has UniqueID "2481"
+Mesh "2489" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2489"
+Mesh "2509" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2509"
+Mesh "2517" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2517"
+Mesh "2537" uses material "Flasks_glass" and has UniqueID "2537"
+Mesh "2553" uses material "Flasks_glass" and has UniqueID "2553"
+Mesh "2563" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2563"
+Mesh "2571" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2571"
+Mesh "2595" uses material "Flasks_glass" and has UniqueID "2595"
+Mesh "2605" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2605"
+Mesh "2623" uses material "Flasks_glass" and has UniqueID "2623"
+Mesh "2633" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2633"
+Mesh "2643" uses material "Laboratory_diff_wire_087225143" and has UniqueID "2643"
+Mesh "2665" uses material "Laboratory_diff_wire_088199225" and has UniqueID "2665"
+Mesh "2682" uses material "HomeTimber_Volume9_color" and has UniqueID "2682"
+Mesh "2701" uses material "HomeTimber_Volume9_color" and has UniqueID "2701"
+Mesh "2717" uses material "HomeTimber_Volume9_color" and has UniqueID "2717"
+Mesh "2733" uses material "HomeTimber_Volume9_color" and has UniqueID "2733"
+Mesh "2749" uses material "HomeTimber_Volume9_color" and has UniqueID "2749"
+Mesh "2765" uses material "HomeTimber_Volume9_color" and has UniqueID "2765"
+Mesh "2781" uses material "HomeTimber_Volume9_color" and has UniqueID "2781"
+Mesh "2797" uses material "HomeTimber_Volume9_color" and has UniqueID "2797"
+Mesh "2813" uses material "HomeTimber_Volume9_color" and has UniqueID "2813"
+Mesh "2829" uses material "HomeTimber_Volume9_color" and has UniqueID "2829"
+Mesh "2845" uses material "HomeTimber_Volume9_color" and has UniqueID "2845"
+Mesh "2861" uses material "HomeTimber_Volume9_color" and has UniqueID "2861"
+Mesh "2877" uses material "HomeTimber_Volume9_color" and has UniqueID "2877"
+Mesh "2893" uses material "HomeTimber_Volume9_color" and has UniqueID "2893"
+Mesh "2909" uses material "HomeTimber_Volume9_color" and has UniqueID "2909"
+Mesh "2925" uses material "HomeTimber_Volume9_color" and has UniqueID "2925"
+Mesh "2941" uses material "HomeTimber_Volume9_color" and has UniqueID "2941"
+Mesh "2957" uses material "HomeTimber_Volume9_color" and has UniqueID "2957"
+Mesh "2973" uses material "HomeTimber_Volume9_color" and has UniqueID "2973"
+Mesh "2989" uses material "HomeTimber_Volume9_color" and has UniqueID "2989"
+Mesh "3005" uses material "HomeTimber_Volume9_color" and has UniqueID "3005"
+Mesh "3021" uses material "HomeTimber_Volume9_color" and has UniqueID "3021"
+Mesh "3037" uses material "HomeTimber_Volume9_color" and has UniqueID "3037"
+Mesh "3053" uses material "HomeTimber_Volume9_color" and has UniqueID "3053"
+Mesh "3069" uses material "HomeTimber_Volume9_color" and has UniqueID "3069"
+Mesh "3085" uses material "HomeTimber_Volume9_color" and has UniqueID "3085"
+Mesh "3101" uses material "HomeTimber_Volume9_color" and has UniqueID "3101"
+Mesh "3117" uses material "HomeTimber_Volume9_color" and has UniqueID "3117"
+Mesh "3134" uses material "Jar_diff 1" and has UniqueID "3134"
+Mesh "3147" uses material "Jar_diff" and has UniqueID "3147"
+Mesh "3170" uses material "Jar_diff 2" and has UniqueID "3170"
+Mesh "3189" uses material "Jar_diff" and has UniqueID "3189"
+Mesh "3205" uses material "Jar_diff 1" and has UniqueID "3205"
+Mesh "3215" uses material "Jar_diff" and has UniqueID "3215"
+Mesh "3235" uses material "Jar_diff 2" and has UniqueID "3235"
+Mesh "3251" uses material "Jar_diff" and has UniqueID "3251"
+Mesh "3267" uses material "Jar_diff 1" and has UniqueID "3267"
+Mesh "3277" uses material "Jar_diff" and has UniqueID "3277"
+Mesh "3297" uses material "Jar_diff 2" and has UniqueID "3297"
+Mesh "3313" uses material "Jar_diff" and has UniqueID "3313"
+Mesh "3329" uses material "Jar_diff 1" and has UniqueID "3329"
+Mesh "3339" uses material "Jar_diff" and has UniqueID "3339"
+Mesh "3359" uses material "Jar_diff 2" and has UniqueID "3359"
+Mesh "3375" uses material "Jar_diff" and has UniqueID "3375"
+Mesh "3392" uses material "ElectricLocker" and has UniqueID "3392"
+Mesh "3406" uses material "ElectricLocker 1" and has UniqueID "3406"
+Mesh "3428" uses material "ElectricLocker" and has UniqueID "3428"
+Mesh "3444" uses material "ElectricLocker" and has UniqueID "3444"
+Mesh "3461" uses material "ElectricLocker" and has UniqueID "3461"
+Mesh "3471" uses material "ElectricLocker 1" and has UniqueID "3471"
+Mesh "3489" uses material "ElectricLocker" and has UniqueID "3489"
+Mesh "3505" uses material "ElectricLocker" and has UniqueID "3505"
+Mesh "3521" uses material "LabConsole" and has UniqueID "3521"
+Mesh "3541" uses material "LabConsole" and has UniqueID "3541"
+Mesh "3551" uses material "LabConsole 2" and has UniqueID "3551"
+Mesh "3575" uses material "LabConsole 1" and has UniqueID "3575"
+Mesh "3592" uses material "LabConsole" and has UniqueID "3592"
+Mesh "3602" uses material "LabConsole 2" and has UniqueID "3602"
+Mesh "3622" uses material "LabConsole 1" and has UniqueID "3622"
+Mesh "3636" uses material "LabConsole" and has UniqueID "3636"
+Mesh "3650" uses material "LabConsole" and has UniqueID "3650"
+Mesh "3664" uses material "LabConsole" and has UniqueID "3664"
+Mesh "3678" uses material "LabConsole" and has UniqueID "3678"
+Mesh "3692" uses material "LabConsole" and has UniqueID "3692"
+Mesh "3706" uses material "LabConsole" and has UniqueID "3706"
+Mesh "3720" uses material "LabConsole" and has UniqueID "3720"
+Mesh "3734" uses material "LabConsole" and has UniqueID "3734"
+Mesh "3748" uses material "LabConsole" and has UniqueID "3748"
+Mesh "3762" uses material "LabConsole" and has UniqueID "3762"
+Mesh "3776" uses material "LabConsole" and has UniqueID "3776"
+Mesh "3790" uses material "LabConsole" and has UniqueID "3790"
+Mesh "3804" uses material "LabConsole" and has UniqueID "3804"
+Mesh "3818" uses material "LabConsole" and has UniqueID "3818"
+Mesh "3832" uses material "LabConsole" and has UniqueID "3832"
+Mesh "3846" uses material "LabConsole" and has UniqueID "3846"
+Mesh "3860" uses material "LabConsole" and has UniqueID "3860"
+Mesh "3874" uses material "LabConsole" and has UniqueID "3874"
+Mesh "3888" uses material "LabConsole" and has UniqueID "3888"
+Mesh "3904" uses material "LabConsole" and has UniqueID "3904"
+Mesh "3914" uses material "LabConsole 2" and has UniqueID "3914"
+Mesh "3934" uses material "LabConsole 1" and has UniqueID "3934"
+Mesh "3948" uses material "LabConsole" and has UniqueID "3948"
+Mesh "3958" uses material "LabConsole 2" and has UniqueID "3958"
+Mesh "3978" uses material "LabConsole 1" and has UniqueID "3978"
+Mesh "3992" uses material "LabConsole" and has UniqueID "3992"
+Mesh "4006" uses material "LabConsole" and has UniqueID "4006"
+Mesh "4020" uses material "LabConsole" and has UniqueID "4020"
+Mesh "4034" uses material "LabConsole" and has UniqueID "4034"
+Mesh "4048" uses material "LabConsole" and has UniqueID "4048"
+Mesh "4062" uses material "LabConsole" and has UniqueID "4062"
+Mesh "4076" uses material "LabConsole" and has UniqueID "4076"
+Mesh "4090" uses material "LabConsole" and has UniqueID "4090"
+Mesh "4104" uses material "LabConsole" and has UniqueID "4104"
+Mesh "4118" uses material "LabConsole" and has UniqueID "4118"
+Mesh "4132" uses material "LabConsole" and has UniqueID "4132"
+Mesh "4146" uses material "LabConsole" and has UniqueID "4146"
+Mesh "4160" uses material "LabConsole" and has UniqueID "4160"
+Mesh "4174" uses material "LabConsole" and has UniqueID "4174"
+Mesh "4188" uses material "LabConsole" and has UniqueID "4188"
+Mesh "4202" uses material "LabConsole" and has UniqueID "4202"
+Mesh "4216" uses material "LabConsole" and has UniqueID "4216"
+Mesh "4230" uses material "LabConsole" and has UniqueID "4230"
+Mesh "4244" uses material "LaboratoryTable_diff" and has UniqueID "4244"
+Mesh "4263" uses material "LaboratoryTable_diff" and has UniqueID "4263"
+Mesh "4279" uses material "LaboratoryTable_diff" and has UniqueID "4279"
+Mesh "4295" uses material "LaboratoryTable_diff" and has UniqueID "4295"
+Mesh "4311" uses material "LampMetall" and has UniqueID "4311"
+Mesh "4331" uses material "LampGlass" and has UniqueID "4331"
+Mesh "4351" uses material "LampMetall" and has UniqueID "4351"
+Mesh "4367" uses material "LampGlass" and has UniqueID "4367"
+Mesh "4383" uses material "LampMetall" and has UniqueID "4383"
+Mesh "4399" uses material "LampGlass" and has UniqueID "4399"
+Mesh "4415" uses material "LampMetall" and has UniqueID "4415"
+Mesh "4431" uses material "LampGlass" and has UniqueID "4431"
+Mesh "4447" uses material "LampMetall" and has UniqueID "4447"
+Mesh "4463" uses material "LampGlass" and has UniqueID "4463"
+Mesh "4479" uses material "LampMetall" and has UniqueID "4479"
+Mesh "4495" uses material "LampGlass" and has UniqueID "4495"
+Mesh "4511" uses material "LampMetall" and has UniqueID "4511"
+Mesh "4527" uses material "LampGlass" and has UniqueID "4527"
+Mesh "4543" uses material "LampMetall" and has UniqueID "4543"
+Mesh "4559" uses material "LampGlass" and has UniqueID "4559"
+Mesh "4575" uses material "LampMetall" and has UniqueID "4575"
+Mesh "4591" uses material "LampGlass" and has UniqueID "4591"
+Mesh "4607" uses material "ElectrikChair_Material__26_color" and has UniqueID "4607"
+Mesh "4626" uses material "ElectrikChair_Material__26_color" and has UniqueID "4626"
+Mesh "4642" uses material "ElectricDetails" and has UniqueID "4642"
+Mesh "4658" uses material "LaboratoryEquipment_el3" and has UniqueID "4658"
+Mesh "4674" uses material "ElectricDetails" and has UniqueID "4674"
+Mesh "4690" uses material "LaboratoryEquipment_el3" and has UniqueID "4690"
+Mesh "4706" uses material "LibraMagnifier" and has UniqueID "4706"
+Mesh "4725" uses material "LibraMagnifier" and has UniqueID "4725"
+Mesh "4739" uses material "ElectricDetails" and has UniqueID "4739"
+Mesh "4749" uses material "Material #193" and has UniqueID "4749"
+Mesh "4771" uses material "ElectricDetails" and has UniqueID "4771"
+Mesh "4781" uses material "Material #193" and has UniqueID "4781"
+Mesh "4799" uses material "LibraMagnifier" and has UniqueID "4799"
+Mesh "4815" uses material "LibraMagnifier" and has UniqueID "4815"
+Mesh "4831" uses material "LibraMagnifier" and has UniqueID "4831"
+Mesh "4847" uses material "LibraMagnifier" and has UniqueID "4847"
+Mesh "4863" uses material "LibraMagnifier" and has UniqueID "4863"
+Mesh "4879" uses material "LibraMagnifier" and has UniqueID "4879"
+Mesh "4895" uses material "LibraMagnifier 1" and has UniqueID "4895"
+Mesh "4912" uses material "LibraMagnifier" and has UniqueID "4912"
+Mesh "4928" uses material "LibraMagnifier" and has UniqueID "4928"
+Mesh "4944" uses material "LibraMagnifier" and has UniqueID "4944"
+Mesh "4960" uses material "LibraMagnifier" and has UniqueID "4960"
+Mesh "4976" uses material "LibraMagnifier" and has UniqueID "4976"
+Mesh "4992" uses material "LibraMagnifier" and has UniqueID "4992"
+Mesh "5008" uses material "LibraMagnifier 1" and has UniqueID "5008"
+Mesh "5022" uses material "Microscope" and has UniqueID "5022"
+Mesh "5041" uses material "Microscope" and has UniqueID "5041"
+Mesh "5057" uses material "Microscope" and has UniqueID "5057"
+Mesh "5073" uses material "Microscope" and has UniqueID "5073"
+Mesh "5089" uses material "Microscope" and has UniqueID "5089"
+Mesh "5105" uses material "Microscope" and has UniqueID "5105"
+Mesh "5121" uses material "Microscope" and has UniqueID "5121"
+Mesh "5137" uses material "Microscope" and has UniqueID "5137"
+Mesh "5153" uses material "Microscope" and has UniqueID "5153"
+Mesh "5167" uses material "LabProps" and has UniqueID "5167"
+Mesh "5183" uses material "LabProps" and has UniqueID "5183"
+Mesh "5199" uses material "LabProps" and has UniqueID "5199"
+Mesh "5215" uses material "LabProps" and has UniqueID "5215"
+Mesh "5231" uses material "Material #195" and has UniqueID "5231"
+Mesh "5251" uses material "FloorLamp" and has UniqueID "5251"
+Mesh "5271" uses material "FloorLamp" and has UniqueID "5271"
+Mesh "5285" uses material "FloorLamp" and has UniqueID "5285"
+Mesh "5301" uses material "FloorLamp" and has UniqueID "5301"
+Mesh "5317" uses material "FloorLamp" and has UniqueID "5317"
+Mesh "5333" uses material "FloorLamp" and has UniqueID "5333"
+Mesh "5349" uses material "FloorLamp" and has UniqueID "5349"
+Mesh "5365" uses material "FloorLamp" and has UniqueID "5365"
+Mesh "5381" uses material "FloorLamp" and has UniqueID "5381"
+Mesh "5395" uses material "FloorLamp" and has UniqueID "5395"
+Mesh "5409" uses material "FloorLamp" and has UniqueID "5409"
+Mesh "5425" uses material "FloorLamp" and has UniqueID "5425"
+Mesh "5441" uses material "FloorLamp" and has UniqueID "5441"
+Mesh "5457" uses material "FloorLamp" and has UniqueID "5457"
+Mesh "5473" uses material "FloorLamp" and has UniqueID "5473"
+Mesh "5489" uses material "FloorLamp" and has UniqueID "5489"
+Mesh "5505" uses material "FloorLamp" and has UniqueID "5505"
+Mesh "5521" uses material "FloorLamp" and has UniqueID "5521"
+Mesh "5535" uses material "FloorLamp" and has UniqueID "5535"
+Mesh "5551" uses material "FloorLamp" and has UniqueID "5551"
+Mesh "5568" uses material "PathoanatomicalTable" and has UniqueID "5568"
+Mesh "5587" uses material "PathoanatomicalTable" and has UniqueID "5587"
+Mesh "5603" uses material "PathoanatomicalTable" and has UniqueID "5603"
+Mesh "5619" uses material "PathoanatomicalTable" and has UniqueID "5619"
+Mesh "5635" uses material "PathoanatomicalTable" and has UniqueID "5635"
+Mesh "5651" uses material "PathoanatomicalTable" and has UniqueID "5651"
+Mesh "5667" uses material "1_Volume9_color" and has UniqueID "5667"
+Mesh "5686" uses material "1_Volume9_color" and has UniqueID "5686"
+Mesh "5702" uses material "1_Volume9_color" and has UniqueID "5702"
+Mesh "5718" uses material "RoundTable_diff" and has UniqueID "5718"
+Mesh "5737" uses material "RoundTable_diff" and has UniqueID "5737"
+Mesh "5753" uses material "RoundTable_diff" and has UniqueID "5753"
+Mesh "5769" uses material "RoundTable_diff" and has UniqueID "5769"
+Mesh "5785" uses material "RoundTable_diff" and has UniqueID "5785"
+Mesh "5801" uses material "RoundTable_diff" and has UniqueID "5801"
+Mesh "5815" uses material "RoundTable_diff" and has UniqueID "5815"
+Mesh "5831" uses material "RoundTable_diff" and has UniqueID "5831"
+Mesh "5847" uses material "Sacks_Dif" and has UniqueID "5847"
+Mesh "5868" uses material "Sacks_Dif" and has UniqueID "5868"
+Mesh "5884" uses material "Sacks_Dif" and has UniqueID "5884"
+Mesh "5900" uses material "1_wire_108008136_color" and has UniqueID "5900"
+Mesh "5919" uses material "1_wire_108008136_color" and has UniqueID "5919"
+Mesh "5935" uses material "1_wire_108008136_color" and has UniqueID "5935"
+Mesh "5951" uses material "SimpleTable" and has UniqueID "5951"
+Mesh "5970" uses material "SimpleTable" and has UniqueID "5970"
+Mesh "5986" uses material "WallsColumns_diff_Material__2" and has UniqueID "5986"
+Mesh "6003" uses material "WallsColumns_diff_Material__2" and has UniqueID "6003"
+Mesh "6017" uses material "WallsColumns_diff_Material__2" and has UniqueID "6017"
+Mesh "6031" uses material "WallsColumns_diff_Material__2" and has UniqueID "6031"
+Mesh "6045" uses material "WallsColumns_diff_Material__2" and has UniqueID "6045"
+Mesh "6059" uses material "WallsColumns_diff_Material__2" and has UniqueID "6059"
+Mesh "6073" uses material "WallsColumns_diff_Material__2" and has UniqueID "6073"
+Mesh "6087" uses material "WallsColumns_diff_Material__2" and has UniqueID "6087"
+Mesh "6101" uses material "WallsColumns_diff_Material__2" and has UniqueID "6101"
+Mesh "6115" uses material "WallsColumns_diff_Material__2" and has UniqueID "6115"
+Mesh "6129" uses material "WallsColumns_diff_Material__2" and has UniqueID "6129"
+Mesh "6143" uses material "WallsColumns_diff_Material__2" and has UniqueID "6143"
+Mesh "6157" uses material "WallsColumns_diff_Material__2" and has UniqueID "6157"
+Mesh "6171" uses material "WallsColumns_diff_Material__2" and has UniqueID "6171"
+Mesh "6185" uses material "WallsColumns_diff_Material__2" and has UniqueID "6185"
+Mesh "6199" uses material "WallsColumns_diff_Material__2" and has UniqueID "6199"
+Mesh "6213" uses material "WallsColumns_diff_Material__2" and has UniqueID "6213"
+Mesh "6227" uses material "WallsColumns_diff_Material__2" and has UniqueID "6227"
+Mesh "6241" uses material "WallsColumns_diff_Material__2" and has UniqueID "6241"
+Mesh "6255" uses material "No Name_0" and has UniqueID "6255"
+Mesh "6274" uses material "No Name_0" and has UniqueID "6274"
+Mesh "6288" uses material "No Name_0" and has UniqueID "6288"
+Mesh "6302" uses material "wood_planks3" and has UniqueID "6302"
+Mesh "6323" uses material "wood_planks3" and has UniqueID "6323"
+Mesh "6339" uses material "wood_planks3" and has UniqueID "6339"
+Mesh "6355" uses material "wood_planks3" and has UniqueID "6355"
+Mesh "6371" uses material "wood_planks3" and has UniqueID "6371"
+Mesh "6387" uses material "wood_planks4" and has UniqueID "6387"
+Mesh "6406" uses material "wood_planks4" and has UniqueID "6406"
+Mesh "6420" uses material "wood_planks4" and has UniqueID "6420"
+
+Material "LabProps" has ID 51c0e96e-8742-499f-a782-46df9ad8fca6.
+	AO: 1|1|1
+	Albedo (UV0): laboratory_props_diff.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness: 0,3736662
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Addons1" has ID 83e5bb1c-00b7-422f-bc99-7383cca3a69e.
+	AO: 1|1|1
+	Albedo (UV1): 16256_Addons1.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1): 16256_Addons1.png
+	Displacement: 0
+	Metalness: 0
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Buffet" has ID f367b0fa-e1f6-4c81-b499-7adf48a335b6.
+	AO: 1|1|1
+	Albedo (UV0): buffet_diff.png
+	Emission: 0|0|0
+	Normal (UV0): buffet_nmap.png
+	Specular F0 (UV0): buffet_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): buffet_metall.png
+	Glossiness (UV0): buffet_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectricDetails" has ID cba82343-409b-445b-944a-79cb03083a73.
+	AO: 1|1|1
+	Albedo (UV0): LaboratoryEquipment_el3_diff.png
+	Emission (UV0) (Factor=0): LaboratoryEquipment_el3_illum.png
+	Normal (UV0): LaboratoryEquipment_el3_normal.png
+	Specular F0 (UV0): LaboratoryEquipment_el3_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): LaboratoryEquipment_el3_metall.png
+	Glossiness (UV0): LaboratoryEquipment_el3_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LaboratoryEquipment_el3" has ID 738c3e5e-45dd-438d-a10a-782e0ae169c1.
+	AO: 1|1|1
+	Albedo (UV1) (Factor=0,588): 15478_LaboratoryEquipment_el3_diff.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1) (Factor=0,588): 15478_LaboratoryEquipment_el3_diff.png
+	Displacement: 0
+	Metalness: 0
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Chair_Volume5_copy001_color" has ID b6f665ab-50fe-4a55-9458-3482737ccd2a.
+	AO: 1|1|1
+	Albedo (UV0): Chair_Volume5_copy001_color.png
+	Emission: 0|0|0
+	Normal (UV0): Chair_Volume5_copy001_nmap.png
+	Specular F0 (UV0): Chair_Volume5_copy001_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0
+	Glossiness (UV0): Chair_Volume5_copy001_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "No Name" has ID c568d456-e668-4e99-8aa9-da937d814266.
+	AO: 1|1|1
+	Opacity (additive) (ALPHA) (UV0) (Factor=0,3187881098): cobweb.png
+	Albedo (UV0): cobweb.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "WallsColumns_diff_Material__3" has ID 2362f28a-52ea-4092-90c1-dd7bcd0cdd39.
+	AO: 1|1|1
+	Albedo (UV0): WallsColumns_Material__3_color.png
+	Emission: 0|0|0
+	Normal (UV0): WallsColumns_Material__3_nmap.png
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "StoneFloor" has ID 71842039-6036-4b78-9cb2-1078452712bd.
+	AO: 1|1|1
+	Albedo (UV0): TexturesCom_CobblestoneFloor4_1024_albedo_.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0,5200076
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Cot" has ID 07825721-585b-40e9-915b-e4c0726a4f1c.
+	AO: 1|1|1
+	Albedo (UV0): Сot_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Сot_normal.png
+	Specular F0 (UV0): Сot_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): Сot_metall.png
+	Glossiness (UV0): Сot_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Body2" has ID da555d7c-706a-4a85-9809-3b930e42a57d.
+	AO: 1|1|1
+	Albedo (UV0): body_diff.png
+	Emission: 0|0|0
+	Normal (UV0): body_normal.png
+	Specular F0 (UV0): body_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0,3675686
+	Glossiness (UV0): body_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Body" has ID d5d9bed6-07da-4ece-8ee2-ad8d4923f3a4.
+	AO: 1|1|1
+	Albedo (UV0): body_diff.png
+	Emission: 0|0|0
+	Normal (UV0): body_normal.png
+	Specular F0 (UV0): body_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0,1968369
+	Glossiness (UV0): body_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Fabric" has ID 5e8afcfb-61c8-45d9-8064-65b5db43be0c.
+	AO: 1|1|1
+	Bump map (UV0) (Factor=2,0293445122): Fabric.png
+	Opacity (alphaMask) (ALPHA) (UV0): Fabric.png
+	Albedo (UV0): Fabric.png
+	Emission: 0|0|0
+	Specular F0 (UV0): Fabric.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0,3248857
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Doors_4_5_Default_color" has ID c7b0fda6-639b-45d2-ae9c-59ee335b2a82.
+	AO: 1|1|1
+	Albedo (UV0): Doors_4_5_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Doors_4_5_normal.png
+	Specular F0 (UV0): Doors_4_5_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0
+	Glossiness (UV0): Doors_4_5_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectrikChair_Material__25_color" has ID 8c3d86a4-a197-4a6f-94fd-4ec17a916d26.
+	AO: 1|1|1
+	Albedo (UV0): 13328_ElectrikChair_Material__25_color.png
+	Emission: 0|0|0
+	Normal (UV0): ElectrikChair_Material__25_nmap.png
+	Specular F0 (UV0): ElectrikChair_Material__25_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): ElectrikChair_Material__25_metalness.png
+	Glossiness (UV0): ElectrikChair_Material__25_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Material__25" has ID 725846a0-d86f-4649-ba2b-6841af336bf0.
+	AO: 1|1|1
+	Albedo (UV1): 13328_ElectrikChair_Material__25_color.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1): 13328_ElectrikChair_Material__25_color.png
+	Displacement: 0
+	Metalness: 0
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectricThing" has ID 2ec85cbe-8067-4301-a2d0-8fff0ccfdeb7.
+	AO: 1|1|1
+	Albedo (UV0): ElectricThing_wire_115115115_color.png
+	Emission: 0|0|0
+	Normal (UV0): ElectricThing_wire_115115115_nmap.png
+	Specular F0 (UV0): ElectricThing_wire_115115115_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): ElectricThing_wire_115115115_metalness.png
+	Glossiness (UV0): ElectricThing_wire_115115115_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Flasks_glass" has ID a763c461-72a7-4875-8c5d-cda5abd9b466.
+	AO: 1|1|1
+	Opacity (refraction): 0,01391006
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness: 0,8004954
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Laboratory_diff_wire_088199225" has ID b8fd4796-8399-4a1b-94de-34b6636f7ca6.
+	AO: 1|1|1
+	Albedo (UV0): Laboratory_diff_wire_088199225.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0 (UV0): Laboratory_gloss_wire_088199225.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness (UV0): Laboratory_gloss_wire_088199225.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Laboratory_diff_wire_087225143" has ID 92adb3bb-4cf2-46a9-ad05-436213af1f2c.
+	AO: 1|1|1
+	Albedo (UV0): Laboratory_diff_wire_087225143.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0 (UV0): Laboratory_gloss_wire_087225143.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 0
+	Glossiness (UV0): Laboratory_gloss_wire_087225143.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "HomeTimber_Volume9_color" has ID 01ef65fa-d7ab-47f7-8c0b-4003d785be8c.
+	AO: 1|1|1
+	Albedo (UV0): HomeTimber_Volume9_color.png
+	Emission: 0|0|0
+	Normal (UV0): HomeTimber_Volume9_nmap.png
+	Specular F0 (UV0): HomeTimber_Volume9_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness (UV0): HomeTimber_Volume9_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Jar_diff 1" has ID 0af5a77c-e9f2-45ec-89a0-095ba0136797.
+	AO: 1|1|1
+	Opacity (alphaBlend) (ALPHA) (UV0) (Factor=0,6602515244): Jar_diff.png
+	Albedo (UV0): Jar_diff.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness (UV0): Jar_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Jar_diff" has ID 51da4ae9-d15e-4261-a9a5-f629da0c48cc.
+	AO: 1|1|1
+	Albedo (UV0): Jar_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Jar_normal.png
+	Specular F0 (UV0): Jar_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): Jar_metall.png
+	Glossiness (UV0): Jar_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Jar_diff 2" has ID 2e74fa6d-d1e3-4a0e-8af1-156605ca2c2a.
+	AO: 1|1|1
+	Opacity (alphaBlend): 0,0078125
+	Albedo: 0.1382453119|0.2527695293|0.0100727285
+	Emission: 1|0.765517|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectricLocker" has ID 2c5b07cb-7e95-4da4-b045-57582a2bab15.
+	AO: 1|1|1
+	Albedo (UV3): LaboratoryEquipment__el1_diff.png
+	Emission (UV3) (Factor=0): 15102_LaboratoryEquipment__el1_illum.png
+	Normal (UV3): LaboratoryEquipment__el1_normal.png
+	Specular F0 (UV3): LaboratoryEquipment__el1_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV3): LaboratoryEquipment__el1_metall.png
+	Glossiness (UV3): LaboratoryEquipment__el1_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectricLocker 1" has ID 39625232-29ab-40cb-b391-0648e3f59826.
+	AO: 1|1|1
+	Opacity (refraction): 0,08098323
+	Emission (UV3): 15102_LaboratoryEquipment__el1_illum.png
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness: 0,8980564
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LabConsole" has ID 48588b53-5d71-4ee6-abc4-b0440269723c.
+	AO: 1|1|1
+	Opacity (alphaMask) (ALPHA) (UV3): LaboratoryEquipment_el2_wire_115115115_col.png
+	Albedo (UV3): LaboratoryEquipment_el2_wire_115115115_col.png
+	Emission (UV3) (Factor=0): 16280_LaboratoryEquipment_el2_wire_115115115_emissive.png
+	Normal (UV3): LaboratoryEquipment_el2_wire_115115115_nma.png
+	Specular F0 (UV3): LaboratoryEquipment_el2_wire_115115115_glo.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV3): LaboratoryEquipment_el2_wire_115115115_met.png
+	Glossiness (UV3): LaboratoryEquipment_el2_wire_115115115_glo.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LabConsole 2" has ID 4a5d6c57-5be2-4234-a261-9082ee90dcc9.
+	AO: 1|1|1
+	Opacity (alphaMask) (ALPHA) (UV3) (Factor=0,2909679878): LaboratoryEquipment_el2_wire_115115115_col.png
+	Albedo (UV3): LaboratoryEquipment_el2_wire_115115115_col.png
+	Emission (UV3) (Factor=1,8464176829): 16280_LaboratoryEquipment_el2_wire_115115115_emissive.png
+	Normal (UV3): LaboratoryEquipment_el2_wire_115115115_nma.png
+	Specular F0: 1
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness: 0,7273247
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LabConsole 1" has ID 3268ed71-9d88-441a-b85c-851bd9684451.
+	AO: 1|1|1
+	Opacity (alphaBlend): 0,3736662
+	Albedo (UV0): LaboratoryEquipment_el2_wire_115115115_col.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness (UV0): LaboratoryEquipment_el2_wire_115115115_glo.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LaboratoryTable_diff" has ID 63e2d007-4689-498a-830a-ea2085d68d0f.
+	AO: 1|1|1
+	Albedo (UV0): LaboratoryTable_diff.png
+	Emission: 0|0|0
+	Normal (UV0): LaboratoryTable_normal.png
+	Specular F0 (UV0): LaboratoryTable_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): LaboratoryTable_metall.png
+	Glossiness (UV0): LaboratoryTable_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LampMetall" has ID 4d519e7a-6d82-4268-9ac9-00e1177cfdec.
+	AO: 1|1|1
+	Albedo (UV3): Lamp_wire_115115115_color.png
+	Emission (UV3) (Factor=10): Lamp_wire_115115115_emissive2.jpg
+	Normal (UV3): Lamp_wire_115115115_nmap.png
+	Specular F0 (UV3): Lamp_wire_115115115_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV3): Lamp_wire_115115115_metalness.png
+	Glossiness (UV3): Lamp_wire_115115115_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LampGlass" has ID 5064a0e0-eaaa-4fb9-9bdc-3e277bafb50c.
+	Opacity (refraction): 0
+	Specular F0: 1
+	Diffuse colour: 1|1|1
+	Metalness: 1
+	Roughness: 0,3431784
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "ElectrikChair_Material__26_color" has ID 9f32eee8-291a-4e93-8941-8e48f4552b3b.
+	AO: 1|1|1
+	Albedo (UV0): ElectrikChair_Material__26_color.png
+	Emission: 0|0|0
+	Normal (UV0): ElectrikChair_Material__26_nmap.png
+	Specular F0 (UV0): ElectrikChair_Material__26_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): ElectrikChair_Material__26_metalness.png
+	Glossiness (UV0): ElectrikChair_Material__26_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LibraMagnifier" has ID 33f0a633-804a-43be-b695-692622dc1b57.
+	AO: 1|1|1
+	Albedo (UV0): Libra_Magnifier_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Libra_Magnifier_normal.png
+	Specular F0 (UV0): Libra_Magnifier_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): Libra_Magnifier_metall.png
+	Glossiness (UV0): Libra_Magnifier_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Material #193" has ID 5ec5a0dd-08f8-423c-9e9d-f7134229e301.
+	AO: 1|1|1
+	Opacity (alphaBlend) (ALPHA) (UV1): 15478_LaboratoryEquipment_el3_diff.png
+	Albedo (UV1) (Factor=0,588): 15478_LaboratoryEquipment_el3_diff.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1) (Factor=0,588): 15478_LaboratoryEquipment_el3_diff.png
+	Displacement: 0
+	Metalness: 0
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "LibraMagnifier 1" has ID e5909e10-a720-4f28-94f3-12e84dbcf88d.
+	AO: 1|1|1
+	Opacity (refraction): 0
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Microscope" has ID 1649d51e-681d-499c-b87b-1a786b2ad300.
+	AO: 1|1|1
+	Opacity (refraction) (ALPHA) (UV0): microscope_diff.png
+	Albedo (UV0): microscope_diff.png
+	Emission: 0|0|0
+	Normal (UV0): microscope_normal.png
+	Specular F0 (UV0): microscope_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): microscope_metall.png
+	Glossiness (UV0): microscope_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Material #195" has ID 153f4416-467f-4a54-bbd4-152b496ea764.
+	AO: 1|1|1
+	Albedo (UV1) (Factor=0,588): 14036_Operating_Lamp_diff.png
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1) (Factor=0,588): 14036_Operating_Lamp_diff.png
+	Displacement: 0
+	Metalness: 0
+	Roughness: 1
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "FloorLamp" has ID 1b55b1dc-4237-4816-98f2-7871b76b0634.
+	AO: 1|1|1
+	Albedo (UV3): Operating_Lamp_diff.png
+	Emission (UV3) (Factor=1,9073932927): Operating_Lamp_illum2.jpg
+	Normal (UV3): Operating_Lamp_normal.png
+	Specular F0 (UV3): Operating_Lamp_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV3): Operating_Lamp_metall.png
+	Glossiness (UV3): Operating_Lamp_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "PathoanatomicalTable" has ID ec2fe418-8bc5-448d-83b7-73bfe20fe4df.
+	AO: 1|1|1
+	Albedo (UV0) (Factor=0,580983231707317): Pathoanatomical_Table_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Pathoanatomical_Table_normal.png
+	Specular F0 (UV0): Pathoanatomical_Table_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): Pathoanatomical_Table_metall.png
+	Glossiness (UV0): Pathoanatomical_Table_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "1_Volume9_color" has ID 58c54217-7245-4a44-9f65-4be540465e5f.
+	AO: 1|1|1
+	Albedo (UV0): 1_Volume9_color.png
+	Emission: 0|0|0
+	Normal (UV0): 1_Volume9_nmap.png
+	Specular F0 (UV0): 1_Volume9_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): 1_Volume9_metalness.png
+	Roughness (UV0): 1_Volume9_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "RoundTable_diff" has ID 028f7998-b9d9-4a9a-ab23-026f582b4f59.
+	AO: 1|1|1
+	Albedo (UV0): RoundTable_diff.png
+	Emission: 0|0|0
+	Normal (UV0): RoundTable_Normal.png
+	Specular F0 (UV0): RoundTable_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): RoundTable_Metall.png
+	Glossiness (UV0): RoundTable_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "Sacks_Dif" has ID 97521abc-88cd-47de-9202-3f27f5b1b410.
+	AO: 1|1|1
+	Albedo (UV1): 16942_Sacks_Dif_Spec.png
+	Emission: 0|0|0
+	Normal (UV1): 128528_Sacks_Nor.png
+	Specular F0: 0,5
+	Diffuse colour (UV1): 16942_Sacks_Dif_Spec.png
+	Displacement: 0
+	Metalness (UV1) (Factor=0): 16942_Sacks_Dif_Spec.png
+	Roughness: 1
+	Specular colour (UV1): 16942_Sacks_Dif_Spec.png
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "1_wire_108008136_color" has ID 7a392cf9-aad7-4514-8730-79fd2c104d26.
+	AO: 1|1|1
+	Albedo (UV0): 1_wire_108008136_color.png
+	Emission: 0|0|0
+	Normal (UV0): 1_wire_108008136_nmap.png
+	Specular F0 (UV0): 1_wire_108008136_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): 1_wire_108008136_metalness.png
+	Glossiness (UV0): 1_wire_108008136_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "SimpleTable" has ID 70335e06-b8c0-458b-a6d9-405b0e272bc6.
+	AO: 1|1|1
+	Albedo (UV0): Table3_diff.png
+	Emission: 0|0|0
+	Normal (UV0): Table3_wire_115115115_nmap.png
+	Specular F0 (UV0): Table3_gloss.png
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness (UV0): Table3_metall.png
+	Glossiness (UV0): Table3_gloss.png
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "WallsColumns_diff_Material__2" has ID 1925188c-60d7-451d-9f83-ff352f3066e9.
+	AO: 1|1|1
+	Albedo (UV0): WallsColumns_Material__2_color.png
+	Emission: 0|0|0
+	Normal (UV0): WallsColumns_Material__2_nmap.png
+	Specular F0: 0,4773247
+	Diffuse colour: 1|1|1
+	Displacement: 0
+	Metalness: 1
+	Glossiness: 0
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "No Name_0" has ID 1b641fe8-b37a-4b28-9d43-07576434c23e.
+	AO: 1|1|1
+	Albedo: 0|0|0
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour: 0|0|0
+	Displacement: 0
+	Metalness: 0
+	Roughness: 0,32
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "wood_planks3" has ID 8de47cec-5505-4c22-8434-52357d694bb1.
+	AO: 1|1|1
+	Albedo (UV1): 16066_wood_planks3.jpg
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1): 16066_wood_planks3.jpg
+	Displacement: 0
+	Metalness: 0
+	Roughness: 0,9
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
+
+Material "wood_planks4" has ID 3a145004-9a72-42ff-bca7-26a8adb1e27a.
+	AO: 1|1|1
+	Albedo (UV1): 15016_wood_planks4.jpg
+	Emission: 0|0|0
+	Normal: 1|1|1
+	Specular F0: 0,5
+	Diffuse colour (UV1): 15016_wood_planks4.jpg
+	Displacement: 0
+	Metalness: 0
+	Roughness: 0,5
+	Specular colour: 0.5|0.5|0.5
+	Diffuse intensity: 1|1|1
+	Specular hardness: 1|1|1
