@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4052461778616726}
   - component: {fileID: 33037850239444104}
   - component: {fileID: 23497800226079404}
-  - component: {fileID: 65833217064491382}
   m_Layer: 0
   m_Name: Panel_1_Pipe_Double_W_PAINT
   m_TagString: Untagged
@@ -84,24 +83,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &65833217064491382
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1252950642972946}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.19070983, y: 0.09906007, z: 1}
-  m_Center: {x: -0.04327606, y: -0.0000001527369, z: 0}

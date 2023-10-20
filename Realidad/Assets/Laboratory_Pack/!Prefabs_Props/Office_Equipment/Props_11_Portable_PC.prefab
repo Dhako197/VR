@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 479046}
   - component: {fileID: 3331888}
   - component: {fileID: 2316288}
-  - component: {fileID: 6528776}
   m_Layer: 0
   m_Name: Props_11_Portable_PC
   m_TagString: Untagged
@@ -84,24 +83,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6528776
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 139890}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.30510545, y: 0.1172326, z: 0.25693724}
-  m_Center: {x: -0.00000008195639, y: 0.058684226, z: 0}
