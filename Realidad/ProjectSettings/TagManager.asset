@@ -11,6 +11,7 @@ TagManager:
   - Moca
   - Tea
   - Floor
+  - Tarjeta
   layers:
   - Default
   - TransparentFX
