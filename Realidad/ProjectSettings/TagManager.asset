@@ -12,6 +12,7 @@ TagManager:
   - Tea
   - Floor
   - Tarjeta
+  - Rayo
   layers:
   - Default
   - TransparentFX
