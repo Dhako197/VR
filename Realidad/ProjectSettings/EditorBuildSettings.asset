@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/_mainProject/Levels/1.Lab.unity
     guid: 262ef98df5a40d94fb4e6f9269947cb9
   - enabled: 1
-    path: Assets/Victorian Interiors/Escena2.unity
+    path: Assets/_mainProject/Levels/2.Victorian.unity
     guid: bd7240139eb6ec84789a81ba7f886b2f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 20c148973bfb12d41a5911e110565ef9, type: 2}
