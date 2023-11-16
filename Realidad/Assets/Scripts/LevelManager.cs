@@ -11,6 +11,6 @@ public class LevelManager : MonoBehaviour
     public string scenaName;
     public void ChangeScene()
     {
-        SceneManager.LoadScene("Escena2");
+        SceneManager.LoadScene(scenaName);
     }
 }

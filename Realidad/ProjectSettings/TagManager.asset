@@ -13,6 +13,7 @@ TagManager:
   - Floor
   - Tarjeta
   - Rayo
+  - Bateria
   layers:
   - Default
   - TransparentFX

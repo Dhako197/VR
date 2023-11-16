@@ -1924,7 +1924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b7d9b1e185e8124a9fdbe3b142c2b4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenaName: Escena2
+  scenaName: 2.Victorian
 --- !u!4 &105370272
 Transform:
   m_ObjectHideFlags: 0
