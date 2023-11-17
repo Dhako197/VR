@@ -6,11 +6,16 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 
+
+
 {
 
     public string scenaName;
+  
     public void ChangeScene()
     {
+      
         SceneManager.LoadScene(scenaName);
+      
     }
 }
