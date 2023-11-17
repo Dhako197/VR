@@ -206,19 +206,20 @@ public class PianoKey : MonoBehaviour
 
 	public void Play(float velocity = 10, float length = 1, float speed = 1)
 	{
+		_keyAngle = 360f;
+		
 		if (_play)
 		{
 			if (PianoKeyController.RepeatedKeyTeleport)
 			{
 				Debug.Log("SI");
-				transform.rotation = Quaternion.Euler(_keyAngle, transform.eulerAngles.y, transform.eulerAngles.z);
+				transform.rotation = Quaternion.Euler(_keyAngle, transform.eulerAngles.y, transform.eulerAngles.z) ;
 			}
-			else
-			{
-				_rigidbody.AddTorque(Vector3.right * 127);
-			}
-		}
 
+			else
+				_rigidbody.AddTorque(Vector3.right * 127);
+		}
+		
 		_velocity = velocity;
 		_length = length;
 		_speed = speed;
@@ -227,9 +228,7 @@ public class PianoKey : MonoBehaviour
 		_depression = true;
 
 		if (PianoKeyController.KeyMode == KeyMode.ForShow)
-		{
 			PlayVirtualAudio();
-		}
 	}
 
 	public void Play(Color colour, float velocity = 10, float length = 1, float speed = 1)
@@ -237,7 +236,6 @@ public class PianoKey : MonoBehaviour
 		if (PianoKeyController.ShowMIDIChannelColours)
 		{
 			_colour = colour;
-		
 		}
 		
 		this.Play(velocity, length, speed);
