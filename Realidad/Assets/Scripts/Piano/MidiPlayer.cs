@@ -4,6 +4,9 @@ using UnityEngine.Events;
 
 public class MidiPlayer : MonoBehaviour
 {
+	[Header("Bools")] public bool isLisa = false;
+	public GameObject MIDIDefault; 
+	
 	[Header("References")]
 	public PianoKeyController PianoKeyDetector;
 
@@ -32,6 +35,16 @@ public class MidiPlayer : MonoBehaviour
 	[SerializeField, HideInInspector]
 	bool _preset = false;
 
+
+	private void OnEnable()
+	{
+		if (isLisa)
+		{
+			PlayCurrentMIDI();
+			MIDIDefault.SetActive(false);
+		}
+	}
+
 	void Start ()
 	{
 		OnPlayTrack = new UnityEvent();
@@ -39,7 +52,7 @@ public class MidiPlayer : MonoBehaviour
 		
 		_midiIndex = 0;
 
-		if (!_preset)
+		if (!_preset && !isLisa)
 			PlayCurrentMIDI();
 		else
 		{
@@ -87,8 +100,14 @@ public class MidiPlayer : MonoBehaviour
 		else
 		{
 			Debug.Log("Song Completed");
-			Destroy(this.gameObject, 2f);
-			//SetupNextMIDI();
+			if (!isLisa)
+			{
+				Destroy(this.gameObject, 1f);
+			}
+			else
+			{
+				gameObject.SetActive(false);
+			}
 		}
 	}
 
@@ -126,7 +145,7 @@ public class MidiPlayer : MonoBehaviour
 		MidiNotes = _midi.GetNotes();
 		_noteIndex = 0;
 
-		OnPlayTrack.Invoke();
+		//OnPlayTrack.Invoke();
 	}
 
 	[ContextMenu("Preset MIDI")]

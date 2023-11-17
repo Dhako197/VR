@@ -463,7 +463,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &37581771
 Transform:
   m_ObjectHideFlags: 0
@@ -11371,6 +11371,70 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1508663159}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1546241193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1546241194}
+  - component: {fileID: 1546241195}
+  m_Layer: 0
+  m_Name: LisaThemeMIDI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1546241194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546241193}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.039139908, y: -1.065162, z: -1.5872463}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8054937237141198475}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1546241195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546241193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e63d891522a217a4bbab1a36c8d05ab4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isLisa: 1
+  MIDIDefault: {fileID: 8492235580670762825}
+  PianoKeyDetector: {fileID: 8492235580215306408}
+  GlobalSpeed: 0.8
+  RepeatType: 0
+  KeyMode: 1
+  ShowMIDIChannelColours: 1
+  MIDIChannelColours:
+  - {r: 0.46666667, g: 0, b: 0.9607843, a: 0}
+  - {r: 0.46439123, g: 0, b: 0.9607843, a: 1}
+  - {r: 0.46666667, g: 0, b: 0.9607843, a: 1}
+  MIDISongs:
+  - MIDIFile: {fileID: 102900000, guid: 1c8238ae423f89246939b848d48d0058, type: 3}
+    SongFileName: LisaTheme
+    Speed: 0.2
+    Details: 'Nocturne op.9 No.2
+
+      Chopin'
+  MidiNotes: []
+  _preset: 0
 --- !u!1001 &1556101959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49223,7 +49287,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!33 &6806908363225886370
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -56286,6 +56350,7 @@ Transform:
   - {fileID: 1859957384542718623}
   - {fileID: 8492235580215306409}
   - {fileID: 8492235580670762823}
+  - {fileID: 1546241194}
   - {fileID: 1589445694}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
@@ -59387,6 +59452,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e63d891522a217a4bbab1a36c8d05ab4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isLisa: 0
+  MIDIDefault: {fileID: 8492235580670762825}
   PianoKeyDetector: {fileID: 8492235580215306408}
   GlobalSpeed: 0.65
   RepeatType: 0

@@ -212,7 +212,7 @@ public class PianoKey : MonoBehaviour
 		{
 			if (PianoKeyController.RepeatedKeyTeleport)
 			{
-				Debug.Log("SI");
+				
 				transform.rotation = Quaternion.Euler(_keyAngle, transform.eulerAngles.y, transform.eulerAngles.z) ;
 			}
 
