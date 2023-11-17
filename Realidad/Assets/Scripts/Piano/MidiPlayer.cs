@@ -87,6 +87,7 @@ public class MidiPlayer : MonoBehaviour
 		else
 		{
 			Debug.Log("Song Completed");
+			Destroy(this.gameObject, 2f);
 			//SetupNextMIDI();
 		}
 	}
