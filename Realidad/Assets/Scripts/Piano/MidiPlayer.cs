@@ -59,6 +59,7 @@ public class MidiPlayer : MonoBehaviour
 		if (MIDISongs.Length <= 0)
 			enabled = false;
 		
+		
 		if (_midi != null && MidiNotes.Length > 0 && _noteIndex < MidiNotes.Length)
 		{
 			_timer += Time.deltaTime * GlobalSpeed * (float)MidiNotes[_noteIndex].Tempo;
