@@ -1,2 +1,6 @@
 # VR
- Clase realidad virtual
+ Final realidad virtual
+ Equipo conformado por:
+ Daniel Jaramillo
+ Daniel Rua 
+Juan David Góngora
