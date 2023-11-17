@@ -21936,6 +21936,7 @@ Transform:
   - {fileID: 2290677412188433971}
   - {fileID: 2904787118675499466}
   - {fileID: 4515274479731912493}
+  - {fileID: 8237297270523521569}
   m_Father: {fileID: 8054937237141198475}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1863035418262854552
@@ -63420,7 +63421,6 @@ Transform:
   - {fileID: 1859957384542718623}
   - {fileID: 8492235580215306409}
   - {fileID: 8492235580670762823}
-  - {fileID: 8237297270523521569}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &8059849598084920842
@@ -64897,11 +64897,11 @@ Transform:
   m_GameObject: {fileID: 8726589138086211739}
   serializedVersion: 2
   m_LocalRotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 0.4761399, y: -0.016161919, z: -0.5332463}
+  m_LocalPosition: {x: 0.0030001402, y: 1.049, z: -0.5160001}
   m_LocalScale: {x: 146.10991, y: 150.72044, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 8054937237141198475}
+  m_Father: {fileID: 1859957384542718623}
   m_LocalEulerAnglesHint: {x: -90, y: -90, z: 0}
 --- !u!4 &8247101075778075034
 Transform:
@@ -67389,7 +67389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PianoKeyDetector: {fileID: 8492235580215306408}
-  GlobalSpeed: 1
+  GlobalSpeed: 0.65
   RepeatType: 0
   KeyMode: 1
   ShowMIDIChannelColours: 1
@@ -67400,24 +67400,10 @@ MonoBehaviour:
   MIDISongs:
   - MIDIFile: {fileID: 102900000, guid: faf5941064165d940a171a7400563207, type: 3}
     SongFileName: nocturno_opus_9_no_2
-    Speed: 0.5
-    Details: 'No Adrenaline
+    Speed: 0.2
+    Details: 'Nocturne op.9 No.2
 
-      Valiant Hearts'
-  - MIDIFile: {fileID: 102900000, guid: 281ed0444563cd14790aa4a5079467ef, type: 3}
-    SongFileName: chopin_fantaisie-impromptu
-    Speed: 1
-    Details: "Fantaisie Impromptu, Op. 66\nFr\xE9d\xE9ric Chopin"
-  - MIDIFile: {fileID: 102900000, guid: 24701c19d658212479b01c1fe70312e0, type: 3}
-    SongFileName: gymnopedie_1
-    Speed: 1
-    Details: "Gymnop\xE9die No.1\nErik Satie"
-  - MIDIFile: {fileID: 6117873553485714201}
-    SongFileName: entertainer
-    Speed: 1
-    Details: 'Entertainer
-
-      Scott Joplin'
+      Chopin'
   MidiNotes: []
   _preset: 0
 --- !u!4 &8492235580670762823
