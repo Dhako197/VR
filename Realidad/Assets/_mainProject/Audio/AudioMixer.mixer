@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!245 &-6054200076331732913
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PIANO_LowPass
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 4e3fcb5823ca8b548b53a49b76cca337
+  m_FloatValues:
+    69110aeb8c8aaa045ba5b86e7f291190: 1004
+    4206539de7e73a343a2fc1255c4add08: -51.8
+  m_TransitionOverrides: {}
 --- !u!244 &-5847073034759376934
 AudioMixerEffectController:
   m_ObjectHideFlags: 3
@@ -43,6 +56,7 @@ AudioMixerGroupController:
   m_Send: 00000000000000000000000000000000
   m_Effects:
   - {fileID: -5847073034759376934}
+  - {fileID: 8588476172929596062}
   m_UserColorIndex: 0
   m_Mute: 0
   m_Solo: 0
@@ -78,6 +92,7 @@ AudioMixerController:
   m_MasterGroup: {fileID: 24300002}
   m_Snapshots:
   - {fileID: 24500006}
+  - {fileID: -6054200076331732913}
   m_StartSnapshot: {fileID: 24500006}
   m_SuspendThreshold: -80
   m_EnableSuspend: 1
@@ -90,7 +105,7 @@ AudioMixerController:
     - dbd3ebaf0e10e914ab350c7293370391
     name: View
   m_CurrentViewIndex: 0
-  m_TargetSnapshot: {fileID: 24500006}
+  m_TargetSnapshot: {fileID: -6054200076331732913}
 --- !u!243 &24300002
 AudioMixerGroupController:
   m_ObjectHideFlags: 0
@@ -136,3 +151,21 @@ AudioMixerSnapshotController:
   m_SnapshotID: 27422afab55b7ef4c810e6d06230ed97
   m_FloatValues: {}
   m_TransitionOverrides: {}
+--- !u!244 &8588476172929596062
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: d9b2ff57b5501d2419d823c010195854
+  m_EffectName: Lowpass
+  m_MixLevel: 9bb3449d32628ca4a87c121cd8c17734
+  m_Parameters:
+  - m_ParameterName: Cutoff freq
+    m_GUID: 69110aeb8c8aaa045ba5b86e7f291190
+  - m_ParameterName: Resonance
+    m_GUID: 894b992e8b8299447bf07a66af9239d5
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0

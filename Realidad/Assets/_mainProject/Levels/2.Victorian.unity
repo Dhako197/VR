@@ -463,7 +463,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &37581771
 Transform:
   m_ObjectHideFlags: 0
@@ -3691,7 +3691,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &560894764
 Transform:
   m_ObjectHideFlags: 0
@@ -8000,6 +8000,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1126964010}
   - component: {fileID: 1126964009}
+  - component: {fileID: 1126964011}
+  - component: {fileID: 1126964012}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -8036,6 +8038,65 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1126964011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126964008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f95fa73dfd4bc24b860eafad66383fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  transitionPianoAudio: {fileID: -6054200076331732913, guid: b900af12f9b352a4fbeb896ee82d7e99, type: 2}
+  transitionFullAudio: {fileID: 24500006, guid: b900af12f9b352a4fbeb896ee82d7e99, type: 2}
+--- !u!114 &1126964012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126964008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: b78973e43993e754bbb9979e1259c7e4, type: 2}
+    - {fileID: 11400000, guid: 66a0a905983e56143b4e383ce47fd05c, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1126964011}
+          m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+          m_MethodName: PianoAudioFull
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1126964011}
+          m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+          m_MethodName: PianoAudioZero
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1001 &1131885123
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9259,6 +9320,8 @@ PlayableDirector:
     value: {fileID: 816308302}
   - key: {fileID: 7257975235633978478, guid: 73b3c3a2bd06017488c60079b7a6155c, type: 2}
     value: {fileID: 798866873}
+  - key: {fileID: -8612903638196125951, guid: 73b3c3a2bd06017488c60079b7a6155c, type: 2}
+    value: {fileID: 1126964012}
   m_ExposedReferences:
     m_References: []
 --- !u!1001 &1279013803
@@ -14661,6 +14724,8 @@ PlayableDirector:
     value: {fileID: 798866873}
   - key: {fileID: 7257975235633978478, guid: 70387784cf1a24c479698061b73ece3f, type: 2}
     value: {fileID: 816308302}
+  - key: {fileID: -2368119243776078393, guid: 70387784cf1a24c479698061b73ece3f, type: 2}
+    value: {fileID: 1126964012}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &2098284424
