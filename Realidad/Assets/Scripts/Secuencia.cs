@@ -3,12 +3,17 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class Secuencia : MonoBehaviour
 {
 
     public int numeroNecesario;
     private bool hecho = false;
+    public AudioSource audioSource;
+    public AudioClip note;
+
+    public PlayableDirector wrong; 
 
     private void OnTriggerEnter(Collider other)
      {
@@ -17,6 +22,7 @@ public class Secuencia : MonoBehaviour
              if (numeroNecesario == SecuenciaManaller.Instance.Counter)
              {
                  hecho = true; 
+                 audioSource.PlayOneShot(note);
                  SecuenciaManaller.Instance.Counter++;
                  SecuenciaManaller.Instance.Comprovacion();
                  StartCoroutine(ColdownNote()); 
@@ -24,6 +30,8 @@ public class Secuencia : MonoBehaviour
              }
              else
              {
+                 wrong.Play();
+                 audioSource.PlayOneShot(note);
                  SecuenciaManaller.Instance.Counter = 0;
              }
          }
