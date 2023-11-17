@@ -12,6 +12,8 @@ public class Secuencia : MonoBehaviour
     private bool hecho = false;
     public AudioSource audioSource;
     public AudioClip note;
+    public bool DobleInteraccion = false;
+    public int segundoNumeroNecesario;
 
     public PlayableDirector wrong; 
 
@@ -28,6 +30,15 @@ public class Secuencia : MonoBehaviour
                  StartCoroutine(ColdownNote()); 
                   Debug.Log("Si funciono el otro");
              }
+             else if (segundoNumeroNecesario == SecuenciaManaller.Instance.Counter && DobleInteraccion)
+            {
+                hecho = true;
+                audioSource.PlayOneShot(note);
+                SecuenciaManaller.Instance.Counter++;
+                SecuenciaManaller.Instance.Comprovacion();
+                StartCoroutine(ColdownNote());
+                Debug.Log("Si funciono el otro del otro");
+            }
              else
              {
                  wrong.Play();

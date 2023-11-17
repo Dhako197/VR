@@ -1,11 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SecuenciaManaller : MonoBehaviour
 {
     public int Counter = 0;
     public int NumeroNecesario = 4;
+    public GameObject Techo;
+    //public GameObject cuerda;
     
     public static SecuenciaManaller Instance { get; private set; }
     private void Awake() 
@@ -26,7 +29,10 @@ public class SecuenciaManaller : MonoBehaviour
     {
         if (Counter == NumeroNecesario)
         {
-            Debug.Log("Añadir eventos");
+            Techo.SetActive(false);
+            //cuerda.SetActive(true);
+            //Debug.Log("Añadir eventos");
+            SceneManager.LoadScene("3.Fin");
         }
     }
 }
